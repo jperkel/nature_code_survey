@@ -3,6 +3,9 @@
 # 'code that transformed science' feature (20 Jan 2021)
 # 
 # supply a CSV on the command line to override default filename below
+# pipe output to grep to extract top-line results
+# ie: "./count_tallies.sh | grep '>>>'"
+#
 
 set -euo pipefail
 
