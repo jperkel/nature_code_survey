@@ -1,0 +1,989 @@
+R
+awk
+Python, OpenMP, CUDA
+tidyverse
+R(studio)
+R
+Unix and C
+Early perceptron
+ipv4? tc/pip
+Object-oriented way of programing
+Anaconda (Python)
+github
+R
+CRAN (R repository)
+IRAF - the Image Reduction and Analysis Facility that revolutionised astronomy
+everything else :-) Numerical Recipes; the C compiler; pytorch; quantum espresso
+UNIX
+PETSc
+Latex
+Unix
+R
+"computer codes"???
+R
+MCNP
+Density Functional Theory
+Burrows-Wheeler Transform
+Linux
+Materials databases (for same reason as biological, but different domain), eg pymatgen code. Also, numpy and scipy as libraries (IPython/Jupyter would not be useful without numpy and spicy)
+R
+www
+ieee 754 floating point numbers
+Google's PageRank
+Google's PageRank
+quicksort
+drugbank
+Computer algebra systems like Macsyma and Mathematica
+Autodifferentiation
+Markov Chain Monte Carlo
+Tensorflow instead of AlexNet
+Unix
+Alpha Go
+linux
+TCP Congestion Control, Jacobson 88, which saved the Internet from collapse
+PCA (Principal Components Analysis)
+Wolfram Mathematica
+Mathematica
+Pythia
+Monte Carlo
+COBOL compiler
+ARPANET(TCP/IP,internet)
+https://en.wikipedia.org/wiki/PageRank
+Molecular dynamics
+stochastic gradient descent(SGD)
+Conways Game Of Life or  Mandlebrot
+Sci-hub
+cuda
+minuit, vegas
+Open source data languages (R, Python, Julia)
+Linux kernel that runs pretty much of all science supercomputers.
+versioning software: git
+Linux
+iPhone
+python
+bioRxiv and medRxiv should have been listed with arXiv
+R / RStudio should have been listed with Python/Jupyter
+GitHub
+Map Reduce
+Please do not use "codes" in the title. It sounds like a mistranslation.
+John Conway's Game of Life
+Spotfire - "Big Data" visualization tool
+Euclid's Algorithm!
+numpy/scipy
+POSIX - standardization of interoperability between computing enviromnents
+Lisp 1.5
+C compiler
+MCMC
+Perl and Bioperl
+MATLAB
+root
+What about IEEE floating point arithmetic?  Or algorithms for evaluating special functions?  And what about Lapack?
+MATLAB (Jupyter is inspired by it)
+netCDF data format and API (great article, thank you)
+R
+C++
+LIbGen/SciHub
+R,pl/1
+git
+Symbolic algebra systems (reduce, mathematica, etc...)
+matlab
+MATLAB
+internet, www
+C Programming Languge
+github
+C
+Matlab
+cobol
+MINUIT
+Java
+computer algebra (macsyma,maple,mathematica,etc)
+Python
+Metropolis Monte Carlo
+floating point
+Linux
+MuZero?
+Latex
+FTP - the way to transfer docs and data between colleagues across the world
+C
+Latex
+TeX: still the best typesetting for math, and at the beginning of electronic paper submission. PDF: the file format which is the foundation of todays publication universe
+Markov chain Monte Carlo
+R instead of Python
+C/Unix
+LAPACK
+FTP, TELNET
+MPI
+Density Functional Theory
+Folding at home
+array programming: from APL, much easier programming environments (e.g. GNU Octave, GNU R, Python with Numpy/Scipy)
+CERN's geant package
+LaTeX
+web-based search engines
+R
+UNIX, PageRank
+Alan Turing's Bomb
+Linux, Open Source Ecosystem
+R
+Linux
+Linux
+Density Functional Theory
+Wolfram Mathematica
+Appearance of free and open source software, in particular R and Python, that allow anyone to write their own code and prevent gatekeeping that existed with commercial environments e.g. Matlab, Mathematica, GIS software etc
+C
+bwa
+Matlab - made experimental science much more accesible.
+Molecular Dynamics Packages
+R language
+C CUDA
+R
+R (this software environment is now the most widely used statistical programming language and for many fields is the only way to do many analyses thanks to the capacity to 'outsource' contributions from the user community)
+linux
+Mathematica (Wolfram)
+WWW
+R
+I think R and its packages would be worth mentioning. Perhaps not as much of a game-changer as the others but it's become an invaluable tool for researchers in many fields
+Message Passing Interface MPI - standardised parallel computing
+The WWW by Tim Berners Lee
+r
+the simplex algorithm
+Forth
+Perl, Python, R, Linux
+Internet
+R
+programming languages and applications/databases are distinct categories. Maybe other successful general programming languages could have been included (C/C++, CUDA, Java, python, etc.)d
+not sure
+IBM's Scientific Subroutine Package!
+LaTeX
+block zip compression
+LISP
+html
+Visual Basic
+the FITS astronomical format and CFITSIO
+HTML
+SQL
+Literature searches (e.g. PubMed)
+MATLAB
+topcat
+latex
+R
+MPI
+CHARMM
+R
+R
+Search engines
+t-SNE
+R
+EXCLUDE "climate 'science'" from subtitle - not worthy of inclusion with biology and physics
+Cobol
+Lotus 1-2-3 (1983)
+Mpi\Openmpi
+DB2
+Google, sorting results from a websearch, the step from AltaVista to Google. I miss Needleman–Wunsch and Smith–Waterman in the blast story.
+PubMed
+Bioconductor; Burroughs Wheeler Transform
+comparison algorithms for mass spectra
+C
+molecular dynamics packages, such as Amber, Gromacs, Namd, Charmm
+LaTeX and R (CRAN)
+R
+MATLAB, R
+Astrophysics Data System of NASA
+S
+Wolfram Mathematica
+unix
+Seq assembly code
+R
+C
+GAMESS-US / other computational chemistry codes
+BERT NLP (language autotranslation0
+R
+Computer algebra
+The c compiler made algorithms available to everyone. FFTs were a pain in FORTRAN, however with C it was used
+MATLAB
+Maple (computer algebra)
+ShelX, a program to solve and refine crystallographic models of small organic molecules, by George Sheldrick
+The shelx suite for small-molecule crystallography is a more specialist code but has been ubiquitous in the field for decades.
+d
+sql
+QuickSort
+C
+assembly language
+S/Splus/R
+COBOL
+Latex
+Mathematica
+Lisp?
+C++
+GitHub
+R
+Skype - the start of effective remote collaboration
+LateX
+General Linear Model
+Eigen
+R
+Bitcoin
+GraphPad Prism
+Plain python
+C and BASIC
+unix
+C++
+R probably has wider use across all disciplines of science even if Python is a more popular language overall
+Mathematica/Maple
+COBOL
+Wavelet analysis, Maximum Likelihood fitting, Fuzzy Logic, Parallel Programming/Algorithms, Image recognition, ...
+The On-Line Encyclopedia of Integer Sequences (OEIS)
+Arc/Info
+Rietveld refinement for x-ray crystallography
+Beowulf Clusters - cheap large scale computing
+R
+Unicode (remember all caps?)
+Mathematica and Maple
+DICOM
+R
+Monte Carlo simulations
+Kalman filter and dynamic linear models
+R
+tex/latex
+Gaussian
+LabView
+pandas
+R
+TeX
+https://en.wikipedia.org/wiki/CHARMM
+R programming language
+python
+HTML
+lapack
+R
+MUMPS
+I read this article thoroughly but am not a researcher so did not fill out the survey. I just wanted to thank you for this summary--absolutely fascinating and well-written!
+MATLAB, Mathematica, R, S
+R
+R - for making coding much more accessible
+Python
+Linux
+Pascal
+GNU Linux
+IMSL, UNIX, GNU C compiler
+TeX, R-system, DeepNeuralNets
+Google
+prepacked statistical analysis software such as SAS or SPSS
+Linux
+R (or its predecessor, S)
+C
+Turbo Pascal
+TeX
+MatLab
+CUDA
+R
+Mathematica
+R
+c
+R studio
+FITS
+Python
+Mathematica, form, gnuplot
+TeX / LaTeX
+Distributed computing sing screen savers in idle computers
+There should be something in this article that speaks to multiple alignment algorithms, e.g. clustal. And perhaps something about phylogenetic estimation. These of course are not entirely independent for PAM matrices.
+GRASP2K
+AlphaFold will have huge impacts in next 5 years, MapReduce (i.e. Google) is probably the most impactful.
+Maple / Sage / Mathematica
+Mathematica for bringing symbolic computing to nonspecialists
+Amber
+GWbasic
+BASIC
+Pascal
+RSA Algorithm for public key encryption
+The Web.
+JuliaLang, FFTW
+Mathematica
+Latex
+R
+ggplot2: revolutionizing data visualization in R and for the world
+C  & Python
+R
+TeX, LaTeX
+Computer algebra systems (Mathematica, Maple, etc.)
+Basic
+Mathematica
+R
+Matlab
+HTML
+Julia language
+Rousis
+R
+MATLAB
+You could add the statistic programming language "R"
+Basic
+TeX and LaTeX
+Linux OS and flavours
+mfold for nucleic acids
+Numpy, Scipy
+R
+R
+Google
+Linux
+C, PASCAL, LISP
+Linux
+C++
+Density functional theory
+C
+R
+Linux
+R, scipy (numpy, pandas, etc), docker, kubernetes...
+Endnote
+BASIC
+adaboost
+Cloud computing
+R language
+Matlab
+R
+Internet Browser
+openMP,CUDA, openMPI
+C
+LAPACK, ACM TOMS codes, DASSL,  DASPK, Matlab
+MPI Message Passing Interface
+Mathematica
+LabView & Matlab
+CSI NGS Portal
+Mosaic
+C
+sas, r
+Pascal
+TeX
+C
+R
+R
+Linux OS
+the web
+TeX/LaTeX
+Algol & Pascal
+Forth
+Unix
+linux
+Unix
+finite element methods
+MRT's Software
+R
+The Unix operating system
+C, neuromorphic chips
+The Metropolis algorithm
+SAT/SMT solvers
+Stata
+internet
+CUDA / GPGPU
+R
+de Bruin graphs (genomics)
+Newton and quasi-Newton methods, Matrix factorizations (LU, Cholesky, QR) SVD, QR and QZ algorithms, Monte-Carlo methods, Fast Fourier transform, Krylov subspace methods, JPEG, PageRank, Simplex method, and Kalman filter.
+World Wide Web
+emacs
+R
+BASIC
+BOINC
+TeX
+R
+Large Eddy Simulation
+pagerank googel search algorithm
+R
+R
+GCG
+C
+backpropagation
+paywalls
+GPU computing
+QIIME2
+Gnuplot
+VASP
+LINUX
+Lisp; Macsyma
+schoonship (early algebraic computation)
+numpy
+Lanczos algorithm
+MATLAB, Mathematica
+MPI
+MCMC
+Cobol
+Clustal
+"Schoonschip" by Nobel prize winner Martin Veltman
+R
+Unix
+Linux
+R
+Monte Carlo methods
+MCMC
+R
+I'm surprised there's no mention of computational fluid dynamics - is that because it's engineering, not science?
+Unix
+Genome browser for genomics data
+no
+C
+CPMD
+You are missing all the FEM codes, both educational (Plane, Feap, Dlearn, etc.) and commertial (Ansys, Adina, Abaqus, etc.)
+What about the C Language? And TeX? And DEC-VMS? And Unix??
+introduction of graphical user inferfaces
+R
+R
+MEME: http://meme-suite.org/
+COBOL
+matlab (incorporated BLAS)
+Python
+Matlab
+R
+Schoonschip by Martin Veltman. It was the basis for Maple and Mathematica and enabled winning of (at least one) Noble Prize for Physics
+PL/1
+C and C**
+R / Bioconductor
+R / Bioconductor
+R
+R studio
+R
+VASP and Abinit
+Linux & Git
+Algol 58 and PL1
+LaTeX
+The Linux Kernel
+linux
+Linux
+the www
+machine code for a Univac 1218 with 8K x 18 bit memory. Ask me why. rdufault@comcast.net
+Matlab
+PGPLOT Fortran graphics subroutine library
+GNU Scientific Library
+Yes: AlphaFold (Deep Mind)
+the simplex
+DESeq2
+Linux
+Message Parsing Interfaece (MPI)
+AMBER
+Mathematica
+Wolfram Alpha/Mathematica
+Mathematica
+Sci-hub
+Rstudio
+R
+Smith-Waterman
+sci-hub
+HTML
+LLVM Compiler Infrastructure
+Frodo (and later O, Chimera, etc.) - model building for structural biologists
+World Wide Web
+paraview
+Unix OS, HTML
+R
+Linux
+matlab/mathematica
+C compiler that runs UNIX for above
+spreadsheet
+C
+Tex
+GNU/Linux
+surprised no ML/AI
+Metropolis method Monte Carlo; Molecular Dynamics (CHARMM, AMBER, GROMACS, NAMD...)
+Ward Cunningham's wiki!
+Mathematica
+Mathematica
+Matlab
+Portable audio recording systems opened several behavioral fields
+encryption ssh - event driven OS - Unix
+MAD at U.Michigan
+LaTeX
+sas
+Windows
+html
+underpinning the rest: UNIX, C, TCP/IP
+R
+R
+git
+LaTeX
+Git
+overleaf
+Eigen
+C++
+VBA
+Assembly
+madonna
+simplex method
+BOINC
+MODTRAN
+Origin software?
+email/web enabling collaboration
+UCSC Genome Browser
+TeX
+Python
+Matlab
+Basic
+EISPACK/LINPACK/LAPACK
+numerical recipes
+linux os
+Bitcoin
+Unix
+Microsoft office
+Linux
+C++
+NCBI
+monte carlo related
+Unix
+https://en.wikipedia.org/wiki/Markov_chain
+numpy
+map/reduce
+AlphaFold
+Sci-Hub
+LISP
+Fast Wavelet Transform (FWT), map-reduce, lambda, numpy, pandas
+Open cv
+HMM (Hidden Markov Models) and HMMer tools have also been useful in providing stronger conclusions that support BLAST searches
+HMM (Hidden Markov Models) and HMMer tools have also been useful in providing stronger conclusions that support BLAST searches
+Julia language
+Matlab
+Arcmap.    Autocad
+Perl
+Google Earth Engine
+TensorFlow
+BERT
+Literature databases & search engines like PubMed
+TeX and LaTeX
+lapack
+C++
+UNIX
+Quicksort
+LAPACK, QUADPACK
+AlphaGo / AlphaZero
+R
+Gnu-Linux
+Idl
+Unix
+xarray
+PubMed
+Elixir
+APL - For its ability to handle matrices
+MATLAB
+Linux and Matlab
+LaTeX, GNU and Linux
+SQL
+C language
+Most of your choices are derivative and not impoortant at all. Id suggest you look at origins of major data structures rather than their implementation.
+COBOL
+Dartmouth Basic
+clustalw
+bitblt
+R/RStudio
+Reed-Solomon codes
+Mathematica notebook
+UNIX
+BASIC
+Internet and sharing scripts and information worldwide
+Mathlab
+NumPy, SciPy, Matplotlib
+Unix
+Pascal compiler
+Algol -- Fortran was idiosyncratic and hard to use for non-numerical processing. Algol corrected those defects.
+MCMC
+http://www.gnu.org -- open source before open source
+R freeware for statistical analysis
+Grid Engine (queue system)
+R
+No mp3 or aac or media without fft.  The other stuff are just evolutionary. FFT bridged the world of analog and digital.
+You missed the graphical user interface revolution. Significantly more influential than Fortran. You missed internet tcp/ip. No internet.i
+Idl
+You missed a big one: Markov Chain Monte Carlo
+Metropolis algorithm
+NAMD
+NASTRAN
+BASIC
+dykstra and simplex
+autodiff
+Languages used for Graphical Processing Units
+C and linux
+html, ARPANET (or tcp), factoring by email (massive distributed computation)
+docker, cloud
+R
+Excel
+autodiff
+Lme4, the widely used R package to calculate linear mixed models and which is widely used in ecology
+R
+R
+Gaussian (quantum chemistry)
+latex
+"R" Statistical Package.
+LISP
+Python / Numpy / Sklearn / Scipy
+david
+GitHub; Most of the aforementioned tools can be have their source code posted on it.
+MPI for distributed computing
+Linux
+C, Unix
+R
+R
+The C programming language
+Numerical integration of differential equations. Numerical optimizations algorithms.
+R
+latex, R
+Monte Carlo Method
+first big open source statistical language: R
+R
+R
+ISI index, R language, RossettaCommons, ClustalW, DSSP, sci-hub
+As usual, visualization tools are missing.
+C
+UNIX
+Excel
+Markov Chain Monte Carlo
+Markov Chain Monte Carlo
+Ada
+MCMC
+Empirical force fields for simulating biomolecules
+Python
+Python, Github
+UNIX/C
+Linux
+Mathematica
+Matlab
+R and Studio
+TeX / LaTeX
+Linear algebra
+Message Passing Interface
+ArcView fir GIS
+the R language
+Linear Programming
+octave/scilab/matlab
+Julia
+Java
+Linux kernel and Docker
+c language
+R
+Oop
+HTML
+TeX
+tensorflow
+Python interpreter
+c
+c++
+Google Search Engine
+BASIC
+COBOL
+APL
+Excel
+unix/linux kernal
+scikit-learn
+PVM by Jack Dongarra
+AlphaZero
+LISP
+BASIC
+BatchNormalization
+PLI, APL
+Vax/VMS
+assembly
+Cobal
+MUMPS
+cobol
+SQL
+Quantum Computing
+SAS
+BASIC
+Excel
+C - in particular, the K&R bible
+Algo
+Binary, all of the rest would not exist as is without it!
+object orient programming
+LISP
+R
+The Turing Machine.
+Basic
+SIMULA
+html
+COBOL/BASIC you can't "science" without funding.
+git
+BASIC in various forms
+C++
+genome db
+The C language. Science runs on UNIX and UNIX runs on C
+OpenGL
+Kalman Filters
+Bayesian inference/Bayes' rule
+latex
+Unifrac
+MIMIC/CSMP
+bash
+HTML
+C
+c++
+C.O.B.O.L
+ANSI C
+C compiler
+UMAP
+C++
+verilog/vhdl + dc compiler - circuit synthesis
+Lisp
+Mathematica
+C Compiler
+cobol
+GPSS - made queue analysis mainstream in 1960s and 1970s.
+COBOL
+APL
+python 3 language
+Julia
+Java
+Perl (historical)
+ASSEMBER, RPG, COBOL
+Basic
+excel/visual Basic
+Matlab: BLAS + IDE + graphics
+UNIX O/S and the C language
+Spreadsheet
+APL
+Julia
+S,
+Lisp
+R
+Google Scholar
+BASIC
+Well fuck you then.
+perl schwartzian transform
+C
+matlab
+GBIF - a centralzied global database of biological inventory (what speces seen where when)
+PASCAL
+Linux - started FOSS revolution, serves 99% of big computing
+HMMER
+R; Branch and Bound; RSA
+APL
+LAPACK
+LaTeX
+Spreadsheet, Word Processing, Search, Mouse Operation, Touch Screen
+BITNet which became email for the masses, and the World Wide Web
+NETLIB repository
+Matlab
+COBOL
+Pascal
+TeX and LaTeX
+Unix 1973 Bell Labs
+BASIC, Compiled Basic and Visual Basic
+PHP
+Linux
+R
+Perl
+world wide web
+C++ and MPI
+matlab & R
+Mathcad/Octave
+BASIC
+Assembly language and "C"
+Glasgow Haskell Compiler
+R
+SQL
+Cobol
+basic
+COBOL
+BASIC
+IRAF (astronomy image analysis package)
+Cobol
+java
+maybe R? https://en.wikipedia.org/wiki/R_(programming_language)
+VisIt visualization, HDF format
+R
+Linux, Wikipedia
+SPICE (1973) - enabled the integrated circuit revolution
+Focal
+GPLv2 :: Richard Stalman gives birth to open source that produces Linux and python, and many others
+STL for C++
+SPICE circuit simulator
+COBOL
+lisp
+R
+The human genome assembler that made it happen
+bash
+R
+Matrixx/Matlab/Gnu Octave
+"computer codes" in the title is awkward
+csh/bash
+GitHub
+MATLAB
+VODE integrators (SVODE/DVODE/CVODE etc)
+Backpropagation
+computational fluid dynamics
+Symbolic Algebra: Macsyma / Maxima or Mathematica
+Commadore BASIC
+LINUX! Are you SERIOUS??
+visualization techniques, in 3D in particular
+unix
+web browser/Mosaic
+sql
+matlab
+Kalman Filtering
+lisp
+mapquest
+Unix operating system
+Message Passing Interface (MPI)
+Digital electronics
+SAS
+C
+QB4.5 if the coder is a scientist
+Matlab and R
+BASIC
+UNIX C
+UNIX C
+BASIC
+MPI for parallel computing
+R language for statistics
+APL
+mathematica or matlab
+TeX
+TCPIP? Connecting the worlds scientists into the WWW might be a useful transformation?
+R
+R
+Rosetta
+C
+Singular Value Decomposition
+pascal
+FORTH
+c
+spreadsheets
+HTML
+SVD. Singular Value Decomposition
+Wolfram
+R
+Unix and C
+Mathematica
+Assembler and the original C but FORTRAN is and always will be king!
+Structured languages and Object Oriented Programming
+MPI
+qemu,ffmpeg pretty much everyting written by the mind blowing Fabrice Bellard No Vmware! no compressed video!
+GCC
+FTP and email
+Watson
+MATLAB
+3D structure viewers
+MPI, CUDA, OpenMP
+gcc - opensource C/C++ compiler for many platforms
+lapack
+LabView
+Well, there's this:
+Not quite sure how you missed this, on your own site: "www.nature.com/articles/d41586-020-03348-4"
+postgresql
+c
+Linux-GNU OS
+Forth (astronomy - device control language)
+C
+Database of code(s)
+UNIX
+Symbolic Mathematic programs
+R
+Small Talk
+scihub!
+assembler
+Python
+C
+PVM
+iraf - image reduction and analysis facility (astronomy)
+spreadsheets (i.e. lotus123, excel)
+Object Oriented Programing
+linux
+ARPACK
+apl
+BASIC interpreter
+BASH by Brian Fox
+BASIC
+cobol
+Multi-Layer Perceptrons
+SQL - Although not technically a programming code it allowed access to data
+BASIC
+Google's page-rank algorithm
+SAS - Statistical Analysis System
+Basic
+PL/I
+Deep Learning
+FORTH
+COBOL
+BASIC and MIMIC
+MATLAB
+C
+FreeSurfer
+Basic (terminal not punchcard-oriented) was big in the sixties.
+Python (in general)
+Git
+R
+R - Statistical software
+Basic
+R language
+optimization methods
+SOLIDWORKS, ANSYS
+Message Passing Interface (MPI)
+C compiler
+GRASP
+ROOT
+R
+Rietveld
+VMEs (virtual machine environments)
+git
+Glossing over machine code. 32 bit machine code on TTY machines kept the computers and communications gong allowing Fortran to be developed. Jumping from wire boards with phone jacks as programming to Fortran misses much. No mention either of the first Object Oriented progamming such as C++ and other kins enabled codes farther down your list.
+ada
+Google search engine code
+LaTeX
+What about Mathematica?
+C
+C/C++
+basic
+GNU Linux
+Pascal
+pagerank
+The Operating System
+Mathematica
+IDL Interactiv Data Language
+Julia
+R/Rstudio
+Microsoft Excel
+GIT
+Mie Code
+http
+MATLAB
+Zotero!
+ARPANET->Internt->world-wide web
+R
+Matlab-Simulink
+python numpy
+Linux
+GBIF (Global Biodiversity Information Facility)
+lapack
+LISP (and perhaps its predecessor IPL), the first language implementation to (coherently) incorporate e.g. recursion, recursive data types, dynamic data allocation, garbage collection, high-order functions (lambda-functions accepting functions as parameters and/or returning functions as results of computations), map/reduce capabilities, etc.  If "science" does include computer science at all (otherwise not even Fortran should be mentioned in the list), LISP transformed (computer) science more than anything else (all modern programming languages are based on principles first introduced by LISP -- although some of them were adopted only 50 years after their appearance).  Not to mention GOFAI (Good Old-Fashioned Artificial Intelligence -- the kind of AI that "uses codified rules", according to the wording in the section on AlexNet), some of which (e.g. Mycin) demonstrated the practical viability of fairly large-scale expert systems, etc.
+Pascal
+ssh
+MATLAB
+bioRxiv
+Latex
+GPSS simulation
+NumPy
+I think the Markov models of probability space exploration could be added to the list.
+EMBL datalibrary
+Perl for succesfull sequencing of first human genome in 2001
+LaTeX
+R language
+Mathematica
+Mathematica
+GPU
+HTML; the Web
+R
+MPI - Message Passing Interface
+IDL
+R
+Auto-differentation, the backbone of deep learning, which will turn into Differentiable programming
+Linux
+C ; LaTeX ; Linux
+git
+R
+Wolfram Mathematica
+Java Virtual Machine
+R
+Crustal
+Jovial, PL/I
+matlab
+R
+C , Java
+CLUSTAL
+Git
+apart from climate models, CFD
+Geographic Information Systems
+S & R languages
+Linux kernel
+R-language and CRAN
+Tidyverse
