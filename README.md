@@ -1,8 +1,8 @@
 # nature_code_survey
 
-Scripts to tally free-text responses the 'Code that transformed science' NatureNews poll.
+Scripts to tally free-text responses to the '[Ten computer codes that transformed science](https://www.nature.com/articles/d41586-021-00075-2)' NatureNews poll.
 
-1. Run the script `tally_free_responses.sh` to extract the free responses column from the survey dataset. (The result is given in `free_responses.txt`.)
+1. Run the script `tally_free_responses.sh` to extract the free responses column from the survey dataset. (For privacy reasons, we cannot share the raw data, but the free responses are given in `free_responses.txt`.)
 2. To extract top-line results, pipe the output to grep: `./tally_free_responses.sh | grep '>>>'`. In this case, the output is:
 
 ```
@@ -23,4 +23,4 @@ Scripts to tally free-text responses the 'Code that transformed science' NatureN
 >>>Total (pascal): 12
 ```
 
-3. `code_survey_graph.R` graphs a CSV created from those top-line results. 
+3. `code_survey_graph.R` plots a CSV created from those top-line results. 
