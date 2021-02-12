@@ -7,5 +7,4 @@ p <- ggplot(df) +
   labs(title = "'Code that transformed science' survey results",
        subtitle = "as of 11 Feb 2021") +
   coord_flip()
-print(p)
-ggsave("survey-results-20210211.jpg")
+ggsave("survey-results-20210212.jpg", p)

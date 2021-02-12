@@ -10,7 +10,7 @@
 set -euo pipefail
 
 # set to 0 if the survey CSV file is not available, 1 if it is
-CSV_AVAILABLE=1
+CSV_AVAILABLE=0
 CSVFILE=~/Downloads/20210211095647-SurveyExport.csv
 FREE_RESPONSES=free_responses.txt 
 
