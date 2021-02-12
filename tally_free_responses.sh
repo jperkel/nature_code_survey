@@ -9,6 +9,8 @@
 
 set -euo pipefail
 
+# set to 0 if the survey CSV file is not available, 1 if it is
+CSV_AVAILABLE=1
 CSVFILE=~/Downloads/20210211095647-SurveyExport.csv
 FREE_RESPONSES=free_responses.txt 
 
@@ -40,12 +42,14 @@ function tally_free_responses {
 }
 
 function do_report {
-   echo -e "Data from file: $CSVFILE"
+   if [[ "$CSV_AVAILABLE" == 1 ]]; then
+      echo -e "Data from file: $CSVFILE"
+      Rscript extract_answers.R $CSVFILE > $FREE_RESPONSES
 
-   Rscript extract_answers.R $CSVFILE > $FREE_RESPONSES
+      votes=$(cat $CSVFILE | tail +2 | wc -l)
+      echo -e "Total votes: $votes"
+   fi 
 
-   votes=$(cat $CSVFILE | tail +2 | wc -l)
-   echo -e "Total votes: $votes"
    free_responses=$(tally_free_responses | awk '{ COUNT += $1; } END { print COUNT; }')
    echo -e "Free-text responses: $free_responses\n"
 
@@ -62,15 +66,17 @@ function do_report {
 }
 
 function main {
-   if [ "$#" -eq 1 ]; then
-      CSVFILE=$1
-   fi
+   if [[ "$CSV_AVAILABLE" == 1 ]]; then
+      if [ "$#" -eq 1 ]; then
+         CSVFILE=$1
+      fi
 
-   if [ ! -e $CSVFILE ]; then
-      echo "File not found: $CSVFILE"
-      exit 0
-   fi
-   
+      if [ ! -e $CSVFILE ]; then
+         echo "File not found: $CSVFILE"
+         exit 0
+      fi
+   fi 
+
    do_report
 }
 
