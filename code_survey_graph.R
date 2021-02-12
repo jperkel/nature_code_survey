@@ -1,6 +1,6 @@
 library(tidyverse)
 
-df <- read_csv("~/tmp/survey_results-20210211.csv")
+df <- read_csv("~/tmp/survey_results-20210212.csv")
 p <- ggplot(df) + 
   geom_col(mapping = aes(x = reorder(tool, count), y = count)) + 
   xlab("tool") +
@@ -8,4 +8,4 @@ p <- ggplot(df) +
        subtitle = "as of 11 Feb 2021") +
   coord_flip()
 print(p)
-ggsave("~/tmp/survey-results-20210211.jpg")
+ggsave("survey-results-20210211.jpg")
