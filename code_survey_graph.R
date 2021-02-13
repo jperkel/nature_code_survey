@@ -1,6 +1,6 @@
 library(tidyverse)
 
-df <- read_csv("~/tmp/survey_results-20210212.csv")
+df <- read_csv("survey_results-20210212.csv")
 p <- ggplot(df) + 
   geom_col(mapping = aes(x = reorder(tool, count), y = count)) + 
   xlab("tool") +
