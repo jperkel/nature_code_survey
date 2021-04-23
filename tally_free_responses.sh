@@ -15,7 +15,7 @@ CSVFILE=~/Downloads/20210211095647-SurveyExport.csv
 FREE_RESPONSES=free_responses.txt 
 
 # search terms
-declare -a terms=(" r | r$|r[ ]?studio"
+declare -a terms=(" r | r$|r[ ]?studio|tidyverse"
                   "unix|linux"
                   " c | c$|c[+][+]"
                   "latex|tex"
