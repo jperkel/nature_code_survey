@@ -15,6 +15,9 @@ CSVFILE=~/Downloads/20210211095647-SurveyExport.csv
 FREE_RESPONSES=free_responses.txt 
 
 # search terms
+# these were selected as follows:
+# cat free_responses.txt | sed -E 's/\"//g' | tr [:upper:] [:lower:] | sed -E '/^[[:space:]]*$/d' | sort | uniq -c | sort
+# all responses with 3 or more hits are included.
 declare -a terms=(" r | r$|r[ ]?studio|tidyverse"
                   "unix|linux"
                   " c | c$|c[+][+]"
@@ -29,7 +32,22 @@ declare -a terms=(" r | r$|r[ ]?studio|tidyverse"
                   "google|pagerank"
                   "html"
                   "lisp"
-                  "pascal")
+                  "pascal"
+                  "\bgit| git |vcs|version"
+                  "\bapl"
+                  "sql"
+                  "lapack"
+                  "\bmpi"
+                  "julia"
+                  "java"
+                  "forth"
+                  "excel"
+                  "density functional theory"
+                  "sas"
+                  "quicksort"
+                  "idl"
+                  "maple"
+                  )
                   
 function tally_free_responses {
    cat $FREE_RESPONSES | \
